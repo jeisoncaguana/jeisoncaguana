@@ -10,12 +10,12 @@ I am a passionate developer with experience in a variety of technologies and fra
 
 ## Technical Skills
 
-- **.NET**: Development of robust and scalable applications. 🖥️
+- **React Native**: Cross-platform mobile app development. 📱
+- **Swift**: Native iOS app development. 🍏
 - **Node.js**: Creation of efficient server-side applications. 🌐
 - **Laravel**: Web application development with PHP. 🛠️
-- **React Native**: Cross-platform mobile app development. 📱
+- **.NET**: Development of robust and scalable applications. 🖥️
 - **Angular**: Creation of dynamic and responsive web applications. 💻
-- **Swift**: Native iOS app development. 🍏
 - **Azure**: Cloud services deployment and management. ☁️
 
 ## Contact
